@@ -1,2 +1,2 @@
 # chatroom
-Realtime Chat with Users and Rooms
+Chatroom using Python and Sockets
